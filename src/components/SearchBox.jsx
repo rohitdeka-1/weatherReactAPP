@@ -50,7 +50,7 @@ const SearchBox = () => {
 
   return (
     <div className="flex flex-col items-center text-center mt-7 overflow-x-hidden">
-      <h1 className="text-4xl font-bold text-white mb-5">🌤 Weather RHD</h1>
+      <h1 className="text-4xl font-bold text-white mb-5">🌤 Weather Rhd</h1>
       <form
         className="flex flex-col items-center gap-3 bg-gray-800 p-6 rounded-lg shadow-lg w-[350px]"
         onSubmit={handleSubmit}
